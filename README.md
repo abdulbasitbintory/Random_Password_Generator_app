@@ -1,8 +1,6 @@
 # 🔒 Random Password Generator  
 *A secure and responsive password generator built with HTML, CSS, and JavaScript*
 
-![Password Generator Screenshot](screenshot.png) <!-- Replace with your actual screenshot -->
-
 ## 📌 Overview  
 This project is a **modern, responsive password generator** that creates cryptographically secure passwords with guaranteed character diversity. Designed with a **glassmorphism UI**, it features one-click password copying, animated interactions, and mobile-first responsiveness. Built using vanilla HTML, CSS, and JavaScript for simplicity and performance.
 
